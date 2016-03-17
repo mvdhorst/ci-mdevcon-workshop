@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        throw new RuntimeException();
     }
 
     @Override
